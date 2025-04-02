@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: m3sh32hio-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/m3sh32hio-go
